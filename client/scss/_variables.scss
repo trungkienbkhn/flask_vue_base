@@ -1,0 +1,41 @@
+$font-stack: Helvetica, Arial, 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+
+// Base Spacing Unit
+$space-unit: 8px;
+
+// Basic Colors
+$default-color: #9b9b9b;
+$success-color: #2ec881;
+$primary-color: #41b883;
+$info-color: #1c84c6;
+$warning-color: #f8ac59;
+$danger-color: #ed5565;
+$inactive-color: #9c27b0;
+$muted-color: #888;
+$disabled-color: #bdbdbd;
+
+// Various colors
+$text-color: #676a6c;
+$link-color: #428bca;
+$label-badge-color: #5e5e5e;
+$border-color: #dcdfe5;
+$gray: #f3f3f4;
+$text-hover-color: #b2dfdb;
+
+// Buefy Colors
+$default: $default-color;
+$success: $success-color;
+$primary: $primary-color;
+$info: $info-color;
+$warning: $warning-color;
+$danger: $danger-color;
+$inactive: $inactive-color;
+$muted: $muted-color;
+$disabled: $disabled-color;
+
+// Buefy Unit
+$toast-border-radius: 0;
+
+// Import Bulma and Buefy styles
+// @import '~bulma';
+// @import '~buefy/src/scss/buefy';
